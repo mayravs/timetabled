@@ -6,5 +6,5 @@ A simple react app that displays a weekly schedule using components.
 
 ### Built with:
 
-*[React.js](https://react.dev/)
-*[Vite](https://vitejs.dev/)
+* [React.js](https://react.dev/)
+* [Vite](https://vitejs.dev/)
